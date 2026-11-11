@@ -1,0 +1,22 @@
+# S32 Design Studio build output
+/Debug*/
+/Release*/
+*.o
+*.d
+*.elf
+*.hex
+*.srec
+*.bin
+*.map
+*.lst
+*.su
+*.log
+
+# Backups and workspace-local files
+*.bak
+*.tmp
+*~
+/.metadata/
+/.vscode/
+Thumbs.db
+.DS_Store
